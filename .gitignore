@@ -138,6 +138,12 @@ venv.bak/
 testai/
 .testai
 
+
+.env
+config.json
+*.key
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
