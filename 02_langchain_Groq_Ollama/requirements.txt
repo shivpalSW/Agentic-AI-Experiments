@@ -12,3 +12,5 @@ wikipedia
 lxml
 langchain_huggingface
 chromadb
+langchain-chroma
+langchain-ollama
