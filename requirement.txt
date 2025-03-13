@@ -5,3 +5,13 @@ langchain-core
 langchain-community
 bs4
 faiss-cpu
+chromadb
+langchain-chroma
+
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
+langchain-groq
